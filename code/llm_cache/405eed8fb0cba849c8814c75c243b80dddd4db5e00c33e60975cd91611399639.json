@@ -1,0 +1,304 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Account events",
+    "events": [
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "25 Aug"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "25 Aug"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "24 Aug"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "22 Aug"
+      }
+    ],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Time (UTC)",
+            "value": "25 Aug 04:03"
+          },
+          {
+            "label": "recorded_at",
+            "value": "2026-08-25T04:03:00Z"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Event",
+            "value": "[removed]"
+          },
+          {
+            "label": "Category",
+            "value": "[removed]"
+          },
+          {
+            "label": "Actor",
+            "value": "[removed]"
+          },
+          {
+            "label": "event_type",
+            "value": "[removed]"
+          },
+          {
+            "label": "subject",
+            "value": "[removed]"
+          },
+          {
+            "label": "actor",
+            "value": "[removed]"
+          },
+          {
+            "label": "fingerprint",
+            "value": "[removed]"
+          },
+          {
+            "label": "signature",
+            "value": "[removed]"
+          },
+          {
+            "label": "journal",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_03"
+          }
+        ],
+        "resource_id": "audit_record_003",
+        "status_text": "Valid",
+        "system_text": "Sentinel",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "recorded_at",
+            "value": "2026-08-25T04:03:00Z"
+          }
+        ],
+        "facts": [
+          {
+            "label": "event_type",
+            "value": "[removed]"
+          },
+          {
+            "label": "subject",
+            "value": "[removed]"
+          },
+          {
+            "label": "actor",
+            "value": "[removed]"
+          },
+          {
+            "label": "fingerprint",
+            "value": "[removed]"
+          },
+          {
+            "label": "signature",
+            "value": "[removed]"
+          },
+          {
+            "label": "journal",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_03"
+          }
+        ],
+        "resource_id": "audit_record_003",
+        "status_text": null,
+        "system_text": "Sentinel",
+        "where": "detail_panel"
+      },
+      {
+        "dates": [
+          {
+            "label": "Time (UTC)",
+            "value": "25 Aug 03:21"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Event",
+            "value": "[removed]"
+          },
+          {
+            "label": "Category",
+            "value": "[removed]"
+          },
+          {
+            "label": "Actor",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_03"
+          }
+        ],
+        "resource_id": "audit_record_002",
+        "status_text": "Valid",
+        "system_text": "Sentinel",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Time (UTC)",
+            "value": "24 Aug 16:14"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Event",
+            "value": "[removed]"
+          },
+          {
+            "label": "Category",
+            "value": "[removed]"
+          },
+          {
+            "label": "Actor",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_03"
+          }
+        ],
+        "resource_id": "audit_record_001",
+        "status_text": "Valid",
+        "system_text": "Sentinel",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Time (UTC)",
+            "value": "22 Aug 11:27"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Event",
+            "value": "[removed]"
+          },
+          {
+            "label": "Category",
+            "value": "[removed]"
+          },
+          {
+            "label": "Actor",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_03"
+          }
+        ],
+        "resource_id": "audit_record_006",
+        "status_text": "Valid",
+        "system_text": "Sentinel",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Time (UTC)",
+            "value": "20 Aug 09:42"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Event",
+            "value": "[removed]"
+          },
+          {
+            "label": "Category",
+            "value": "[removed]"
+          },
+          {
+            "label": "Actor",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_03"
+          }
+        ],
+        "resource_id": "audit_record_005",
+        "status_text": "Valid",
+        "system_text": "Sentinel",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Time (UTC)",
+            "value": "18 Aug 14:05"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Event",
+            "value": "[removed]"
+          },
+          {
+            "label": "Category",
+            "value": "[removed]"
+          },
+          {
+            "label": "Actor",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_03"
+          }
+        ],
+        "resource_id": "audit_record_004",
+        "status_text": "Valid",
+        "system_text": "Sentinel",
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1683,
+    "output_tokens": 1964,
+    "reasoning_tokens": 0
+  }
+}

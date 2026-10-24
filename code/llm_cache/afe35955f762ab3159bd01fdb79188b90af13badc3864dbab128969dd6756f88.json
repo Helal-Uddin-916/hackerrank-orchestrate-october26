@@ -1,0 +1,137 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Helpline Console",
+    "events": [
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "09:12"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "09:13"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "09:28"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "09:35"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "22 May"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "23 May"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "24 May 07:46"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "24 May 08:15"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "26 May"
+      }
+    ],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "SLA",
+            "value": "01:42"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Tags",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "support_1034"
+          },
+          {
+            "kind": "name",
+            "value": "fp:name"
+          },
+          {
+            "kind": "email",
+            "value": "fp:email:2223309bb52ac82b56ee55504acf27956503f83a61a81703bd9f24a5f5a292c6"
+          },
+          {
+            "kind": "name",
+            "value": "fp:name"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": "Normal priority",
+        "system_text": "Helpline Console",
+        "where": "detail_panel"
+      },
+      {
+        "dates": [
+          {
+            "label": "Expected",
+            "value": "26 May 2026"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Product",
+            "value": "[removed]"
+          },
+          {
+            "label": "Carrier",
+            "value": "[removed]"
+          },
+          {
+            "label": "Tracking",
+            "value": "[removed]"
+          },
+          {
+            "label": "Assigned agent",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "name",
+            "value": "fp:name"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": "In transit",
+        "system_text": "Helpline Console",
+        "where": "detail_panel"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1671,
+    "output_tokens": 1025,
+    "reasoning_tokens": 0
+  }
+}

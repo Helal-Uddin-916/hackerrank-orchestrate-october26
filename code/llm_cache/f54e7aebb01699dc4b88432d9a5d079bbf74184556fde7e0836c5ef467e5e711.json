@@ -1,0 +1,176 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Customer Download Center",
+    "events": [
+      {
+        "resource_id": "export_1260",
+        "text": "Ready for download",
+        "time_text": "06:46"
+      },
+      {
+        "resource_id": "export_1260",
+        "text": "Package created",
+        "time_text": "06:45"
+      },
+      {
+        "resource_id": "export_1260",
+        "text": "Collecting customer records",
+        "time_text": "06:43"
+      },
+      {
+        "resource_id": "export_1260",
+        "text": "Export requested",
+        "time_text": "06:42"
+      }
+    ],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "20 Jun 14:18 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Filename",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:f6ef14336a9bfe2a63e445f2642e9145efc07b6840189a83f5caa0c2fa548469"
+          }
+        ],
+        "resource_id": "export_1261",
+        "status_text": "Collecting",
+        "system_text": "Data exports",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "18 Jun 06:42 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Filename",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:0649eddaba37af918d82b64da379e6623d34cf290b2a26ecbe53bafc1484f8af"
+          }
+        ],
+        "resource_id": "export_1260",
+        "status_text": "Ready",
+        "system_text": "Data exports",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "17 Jun 11:03 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Filename",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:61b09761f981abf5391d437e4b8c0316e4e030ce983b97bd6723a3402c777f0a"
+          }
+        ],
+        "resource_id": "export_1259",
+        "status_text": "Packaging",
+        "system_text": "Data exports",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "16 Jun 09:27 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Filename",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:12810566ec94895965476862c1486912c1e2a90dced75f5adeed8e675e9759a4"
+          }
+        ],
+        "resource_id": "export_1258",
+        "status_text": "Ready",
+        "system_text": "Data exports",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "18 Jun 2026 06:42 UTC"
+          },
+          {
+            "label": "Expires",
+            "value": "25 Jun 2026 06:42 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Checksum",
+            "value": "[removed]"
+          },
+          {
+            "label": "Download count",
+            "value": "[removed]"
+          },
+          {
+            "label": "Included",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:0649eddaba37af918d82b64da379e6623d34cf290b2a26ecbe53bafc1484f8af"
+          }
+        ],
+        "resource_id": "export_1260",
+        "status_text": null,
+        "system_text": "Data exports",
+        "where": "detail_panel"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1683,
+    "output_tokens": 1214,
+    "reasoning_tokens": 0
+  }
+}

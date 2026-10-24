@@ -1,0 +1,225 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Northstar Shop / BridgeOps / Connections",
+    "events": [
+      {
+        "resource_id": "data_flow_1121",
+        "text": "124 events delivered",
+        "time_text": "07:59:42"
+      },
+      {
+        "resource_id": "data_flow_1121",
+        "text": "checkpoint committed",
+        "time_text": "07:58:10"
+      },
+      {
+        "resource_id": "data_flow_1121",
+        "text": "18 events retried",
+        "time_text": "07:56:44"
+      },
+      {
+        "resource_id": "data_flow_1121",
+        "text": "destination acknowledged batch",
+        "time_text": "07:55:02"
+      }
+    ],
+    "page_time_text": "07 Aug 2026 08:00 UTC",
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Last contact",
+            "value": "07:59:42"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Destination",
+            "value": "[removed]"
+          },
+          {
+            "label": "Selector",
+            "value": "[removed]"
+          },
+          {
+            "label": "Mode",
+            "value": "[removed]"
+          },
+          {
+            "label": "Events/hour",
+            "value": "[removed]"
+          },
+          {
+            "label": "Owner",
+            "value": "[removed]"
+          },
+          {
+            "label": "Sync mode",
+            "value": "[removed]"
+          },
+          {
+            "label": "Last response",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:ea61073600454d4cb320cd63802b6e63ceb0a1398a7b4dd10049a71729471d00"
+          }
+        ],
+        "resource_id": "data_flow_1121",
+        "status_text": "Healthy",
+        "system_text": "BridgeOps",
+        "where": "table_row"
+      },
+      {
+        "dates": [],
+        "facts": [
+          {
+            "label": "Status",
+            "value": "[removed]"
+          },
+          {
+            "label": "Owner",
+            "value": "[removed]"
+          },
+          {
+            "label": "Destination",
+            "value": "[removed]"
+          },
+          {
+            "label": "Selector",
+            "value": "[removed]"
+          },
+          {
+            "label": "Sync mode",
+            "value": "[removed]"
+          },
+          {
+            "label": "Last response",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:ea61073600454d4cb320cd63802b6e63ceb0a1398a7b4dd10049a71729471d00"
+          }
+        ],
+        "resource_id": "data_flow_1121",
+        "status_text": "Healthy",
+        "system_text": "BridgeOps",
+        "where": "detail_panel"
+      },
+      {
+        "dates": [
+          {
+            "label": "Last contact",
+            "value": "07:59:36"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Destination",
+            "value": "[removed]"
+          },
+          {
+            "label": "Selector",
+            "value": "[removed]"
+          },
+          {
+            "label": "Mode",
+            "value": "[removed]"
+          },
+          {
+            "label": "Events/hour",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:3a998570469df6b3cf40bb58e9b2a55e4890cded9f801df993ed6584f990826c"
+          }
+        ],
+        "resource_id": "data_flow_9846",
+        "status_text": null,
+        "system_text": "BridgeOps",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Last contact",
+            "value": "07:59:28"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Destination",
+            "value": "[removed]"
+          },
+          {
+            "label": "Selector",
+            "value": "[removed]"
+          },
+          {
+            "label": "Mode",
+            "value": "[removed]"
+          },
+          {
+            "label": "Events/hour",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": "BridgeOps",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Last contact",
+            "value": "07:59:13"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Destination",
+            "value": "[removed]"
+          },
+          {
+            "label": "Selector",
+            "value": "[removed]"
+          },
+          {
+            "label": "Mode",
+            "value": "[removed]"
+          },
+          {
+            "label": "Events/hour",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": "BridgeOps",
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1657,
+    "output_tokens": 1516,
+    "reasoning_tokens": 0
+  }
+}

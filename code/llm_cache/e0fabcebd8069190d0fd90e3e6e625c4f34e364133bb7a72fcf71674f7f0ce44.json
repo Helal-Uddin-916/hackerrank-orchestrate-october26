@@ -1,0 +1,243 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Vault Recovery Manager",
+    "events": [
+      {
+        "resource_id": "backup_9286",
+        "text": "backup_9286 restored - Completed",
+        "time_text": "25 Apr"
+      },
+      {
+        "resource_id": "backup_9281",
+        "text": "backup_9281 restored - Completed",
+        "time_text": "24 Apr"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "22 Apr"
+      }
+    ],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "26 Apr 02:00"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Account",
+            "value": "[removed]"
+          },
+          {
+            "label": "Region",
+            "value": "[removed]"
+          },
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Encryption",
+            "value": "[removed]"
+          },
+          {
+            "label": "Tier",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:272cd42cfe5629f0a60fc6d88462f16d930dcf90680ce0a17bb0690a97df3a57"
+          }
+        ],
+        "resource_id": "backup_9291",
+        "status_text": null,
+        "system_text": "Northstar Shop",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "26 Apr 02:00"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Account",
+            "value": "[removed]"
+          },
+          {
+            "label": "Region",
+            "value": "[removed]"
+          },
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Encryption",
+            "value": "[removed]"
+          },
+          {
+            "label": "Tier",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:368e0776d757d5fa352269b247642f161fd9a0d15d59ea34259b79f61f5ad1d4"
+          }
+        ],
+        "resource_id": "backup_9288",
+        "status_text": null,
+        "system_text": "Northstar Shop",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "26 Apr 02:00"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Account",
+            "value": "[removed]"
+          },
+          {
+            "label": "Region",
+            "value": "[removed]"
+          },
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Encryption",
+            "value": "[removed]"
+          },
+          {
+            "label": "Tier",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:7001f88650909c41c862cc4394921012deaa96f9d5ef925f4b052ad6f30aeb62"
+          }
+        ],
+        "resource_id": "backup_9287",
+        "status_text": null,
+        "system_text": "Northstar Shop",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "26 Apr 2026 02:00 UTC"
+          },
+          {
+            "label": "Last drill",
+            "value": "29 Mar 2026"
+          },
+          {
+            "label": "Retention end",
+            "value": "26 Jul 2026"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Account",
+            "value": "[removed]"
+          },
+          {
+            "label": "Path",
+            "value": "[removed]"
+          },
+          {
+            "label": "Region",
+            "value": "[removed]"
+          },
+          {
+            "label": "Encryption",
+            "value": "[removed]"
+          },
+          {
+            "label": "Checksum",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:7001f88650909c41c862cc4394921012deaa96f9d5ef925f4b052ad6f30aeb62"
+          }
+        ],
+        "resource_id": "backup_9287",
+        "status_text": null,
+        "system_text": "Northstar Shop",
+        "where": "detail_panel"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "26 Apr 02:00"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Account",
+            "value": "[removed]"
+          },
+          {
+            "label": "Region",
+            "value": "[removed]"
+          },
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Encryption",
+            "value": "[removed]"
+          },
+          {
+            "label": "Tier",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:a7135c40f536383ed4a30885d386a40d2a8eb2f37ca22dc1a44a72ab0d8bd18a"
+          }
+        ],
+        "resource_id": "backup_9286",
+        "status_text": null,
+        "system_text": "Northstar Shop",
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1657,
+    "output_tokens": 1636,
+    "reasoning_tokens": 0
+  }
+}

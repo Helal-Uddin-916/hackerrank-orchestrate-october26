@@ -1,0 +1,189 @@
+{
+  "answer": {
+    "answers": [
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m1",
+        "reason": "Customer explicitly requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m2",
+        "reason": "Customer asks for the account and associated systems data to be erased."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m3",
+        "reason": "Customer wants to close the account and delete personal data."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m4",
+        "reason": "Customer requests removal of the account and linked personal information."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m5",
+        "reason": "Customer requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m6",
+        "reason": "Customer asks to close the account and delete personal data."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m7",
+        "reason": "Customer requests account closure and personal data deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m8",
+        "reason": "Customer asks for permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m9",
+        "reason": "Customer explicitly requests deletion of their account and related data."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m10",
+        "reason": "Customer wants to close the account and delete associated personal data."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m11",
+        "reason": "Customer requests deletion of account and submitted identification documents."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m12",
+        "reason": "Customer asks for account closure and personal data deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m13",
+        "reason": "Customer requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m14",
+        "reason": "Customer submits a request to delete their account and personal data."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m15",
+        "reason": "Customer requests account erasure and data deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m16",
+        "reason": "Customer wants the account to be erased."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m17",
+        "reason": "Customer requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m18",
+        "reason": "Customer requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m19",
+        "reason": "Customer requests deletion of their account."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m20",
+        "reason": "Customer requests account closure and personal-data deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m21",
+        "reason": "Customer initiates the account deletion process."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m22",
+        "reason": "Customer submits a request to delete their account and data."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m23",
+        "reason": "Customer requests deletion of their account."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m24",
+        "reason": "Customer requests permanent deletion of their account."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m25",
+        "reason": "Customer wants the account associated with the address to be erased."
+      }
+    ]
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "check_requests",
+  "prompt_version": "2",
+  "usage": {
+    "input_tokens": 1753,
+    "output_tokens": 1555,
+    "reasoning_tokens": 0
+  }
+}

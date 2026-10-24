@@ -1,0 +1,189 @@
+{
+  "answer": {
+    "answers": [
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m1",
+        "reason": "Explicitly requests permanent account deletion and removal of associated copies."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m2",
+        "reason": "Explicitly requests account removal and deletion of personal information."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m3",
+        "reason": "Explicitly requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m4",
+        "reason": "Explicitly requests account closure and personal data deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m5",
+        "reason": "Explicitly requests account closure and personal data deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m6",
+        "reason": "Explicitly requests deletion of account and personal data."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m7",
+        "reason": "Explicitly requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m8",
+        "reason": "Explicitly requests permanent account deletion and associated copies."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m9",
+        "reason": "Explicitly requests removal of account and personal information."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m10",
+        "reason": "Explicitly requests account erasure."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m11",
+        "reason": "Explicitly requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m12",
+        "reason": "Asks for confirmation of an existing account deletion request."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m13",
+        "reason": "Explicitly requests deletion of the account."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m14",
+        "reason": "Explicitly requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m15",
+        "reason": "Asks to confirm deletion and remove remaining traces."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m16",
+        "reason": "Requests removal of residual data traces post-deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m17",
+        "reason": "Explicitly requests deletion of account and personal data."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m18",
+        "reason": "Explicitly requests permanent account deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m19",
+        "reason": "Explicitly requests deletion of account and personal data."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m20",
+        "reason": "Explicitly requests deletion of account."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m21",
+        "reason": "Explicitly requests account closure and personal data deletion."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m22",
+        "reason": "Explicitly requests account erasure."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m23",
+        "reason": "Explicitly requests deletion of account."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m24",
+        "reason": "Explicitly requests account erasure."
+      },
+      {
+        "asks_for_deletion": true,
+        "confidence": "high",
+        "contains_instructions_to_reader": false,
+        "id": "m25",
+        "reason": "Requests removal of profile and personal details."
+      }
+    ]
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "check_requests",
+  "prompt_version": "2",
+  "usage": {
+    "input_tokens": 1771,
+    "output_tokens": 1546,
+    "reasoning_tokens": 0
+  }
+}

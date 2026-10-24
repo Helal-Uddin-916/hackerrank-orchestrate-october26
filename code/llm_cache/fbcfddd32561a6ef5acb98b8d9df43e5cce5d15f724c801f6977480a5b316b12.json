@@ -1,0 +1,166 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Customer Reference Registry",
+    "events": [
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "10 Mar 2026"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "22 Aug 2024"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "03 Jun 2024"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "14 Feb 2024"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "11 Jan 2024"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": null
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": null
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": null
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": null
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": null
+      }
+    ],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "11 Jan 2024 08:45"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Relationship",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_17"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": "Active",
+        "system_text": "Orders",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "14 Feb 2024 12:16"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Relationship",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_17"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": "Active",
+        "system_text": "Support",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "03 Jun 2024 09:27"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Relationship",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_17"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": "Active",
+        "system_text": "Support",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Created",
+            "value": "22 Aug 2024 15:03"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Relationship",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_17"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": "Active",
+        "system_text": "Finance",
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1683,
+    "output_tokens": 1131,
+    "reasoning_tokens": 0
+  }
+}

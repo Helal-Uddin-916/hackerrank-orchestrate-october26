@@ -1,0 +1,100 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "NORTHSTAR SHOP - CUSTOMER STATEMENT",
+    "events": [
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": null
+      }
+    ],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "order date",
+            "value": "08 Jul 2026"
+          },
+          {
+            "label": "dispatched",
+            "value": "10 Jul"
+          },
+          {
+            "label": "delivered",
+            "value": "14 Jul"
+          }
+        ],
+        "facts": [
+          {
+            "label": "statement",
+            "value": "[removed]"
+          },
+          {
+            "label": "Item",
+            "value": "[removed]"
+          },
+          {
+            "label": "Delivery address",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "name",
+            "value": "fp:name"
+          },
+          {
+            "kind": "user_reference",
+            "value": "user_18"
+          },
+          {
+            "kind": "email",
+            "value": "fp:email:0649eddaba37af918d82b64da379e6623d34cf290b2a26ecbe53bafc1484f8af"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": "NORTHSTAR SHOP",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "order date",
+            "value": "08 Jul 2026"
+          },
+          {
+            "label": "dispatched",
+            "value": "10 Jul"
+          },
+          {
+            "label": "delivered",
+            "value": "14 Jul"
+          }
+        ],
+        "facts": [
+          {
+            "label": "billing status",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": "paid",
+        "system_text": "NORTHSTAR SHOP",
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1655,
+    "output_tokens": 693,
+    "reasoning_tokens": 0
+  }
+}
