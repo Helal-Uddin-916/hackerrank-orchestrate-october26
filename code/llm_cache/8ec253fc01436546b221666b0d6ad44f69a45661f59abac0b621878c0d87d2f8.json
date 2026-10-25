@@ -1,0 +1,133 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Pulse Analytics",
+    "events": [
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "14:22"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "14:20"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "14:17"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "14:16"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "14:12"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "13 Jul"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "08 Jul"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "30 Jun"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "22 Jun"
+      }
+    ],
+    "page_time_text": "Updated moments ago",
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Last activity",
+            "value": "13 Jul 2026 14:22 UTC"
+          },
+          {
+            "label": "First seen",
+            "value": "21 Apr 2026 09:14 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Sessions",
+            "value": "[removed]"
+          },
+          {
+            "label": "Products viewed",
+            "value": "[removed]"
+          },
+          {
+            "label": "Completed orders",
+            "value": "[removed]"
+          },
+          {
+            "label": "Revenue",
+            "value": "[removed]"
+          },
+          {
+            "label": "Mobile / Desktop",
+            "value": "[removed]"
+          },
+          {
+            "label": "Acquisition",
+            "value": "[removed]"
+          },
+          {
+            "label": "Market",
+            "value": "[removed]"
+          },
+          {
+            "label": "Audience",
+            "value": "[removed]"
+          },
+          {
+            "label": "Interest",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "name",
+            "value": "fp:name"
+          },
+          {
+            "kind": "user_reference",
+            "value": "user_20"
+          },
+          {
+            "kind": "email",
+            "value": "fp:email:09f05b9fb59a2493e9349bbfeac4ab5288a534689c8ecbe44bcc106f5ede50a7"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": "Pulse Analytics",
+        "where": "detail_panel"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1657,
+    "output_tokens": 905,
+    "reasoning_tokens": 0
+  }
+}

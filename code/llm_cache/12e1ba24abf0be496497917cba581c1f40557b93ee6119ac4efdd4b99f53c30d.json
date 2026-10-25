@@ -1,0 +1,138 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Audience Operations",
+    "events": [
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "23:40"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "23:38"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "23:35"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "23:32"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": null
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": null
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": null
+      }
+    ],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Last refreshed",
+            "value": "15 Sep 2026 23:40 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Market",
+            "value": "[removed]"
+          },
+          {
+            "label": "Language",
+            "value": "[removed]"
+          },
+          {
+            "label": "Email opt-in",
+            "value": "[removed]"
+          },
+          {
+            "label": "SMS opt-in",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "name",
+            "value": "fp:name"
+          },
+          {
+            "kind": "user_reference",
+            "value": "marketing_001"
+          },
+          {
+            "kind": "email",
+            "value": "fp:email:8e7b1729854eb17c37d2f8a5d8a731d11fcb62d02467d7f9fea71520227230b4"
+          },
+          {
+            "kind": "phone",
+            "value": "fp:phone:456bd87de5407e71f47a7ef09c479e1797d35e7c3bb68700d79078d85916b4c4"
+          }
+        ],
+        "resource_id": "marketing_001",
+        "status_text": "Live",
+        "system_text": "Northstar Shop",
+        "where": "detail_panel"
+      },
+      {
+        "dates": [
+          {
+            "label": "Last campaign",
+            "value": "Autumn offers"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Audience",
+            "value": "[removed]"
+          },
+          {
+            "label": "Segments",
+            "value": "[removed]"
+          },
+          {
+            "label": "Preferred categories",
+            "value": "[removed]"
+          },
+          {
+            "label": "Open rate",
+            "value": "[removed]"
+          },
+          {
+            "label": "Click rate",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": "Northstar Shop",
+        "where": "detail_panel"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1674,
+    "output_tokens": 931,
+    "reasoning_tokens": 0
+  }
+}

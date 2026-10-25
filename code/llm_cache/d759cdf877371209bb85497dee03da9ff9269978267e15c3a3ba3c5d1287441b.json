@@ -1,0 +1,290 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Nimbus Object Storage",
+    "events": [
+      {
+        "resource_id": "delivery_confirmation_19.pdf",
+        "text": "v3 metadata update",
+        "time_text": "12 Feb 18:42"
+      },
+      {
+        "resource_id": "delivery_confirmation_19.pdf",
+        "text": "v2 upload complete",
+        "time_text": "12 Feb 18:39"
+      },
+      {
+        "resource_id": "delivery_confirmation_19.pdf",
+        "text": "v1 object created",
+        "time_text": "12 Feb 18:38"
+      }
+    ],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Modified (UTC)",
+            "value": "12 Feb 18:42"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Storage class",
+            "value": "[removed]"
+          },
+          {
+            "label": "Version",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "delivery_confirmation_19",
+        "status_text": null,
+        "system_text": "Nimbus Object Storage",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Modified",
+            "value": "12 Feb 2026 18:42 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Version",
+            "value": "[removed]"
+          },
+          {
+            "label": "Content type",
+            "value": "[removed]"
+          },
+          {
+            "label": "Encryption",
+            "value": "[removed]"
+          },
+          {
+            "label": "Checksum",
+            "value": "[removed]"
+          },
+          {
+            "label": "Uploader",
+            "value": "support-service"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "delivery_confirmation_19",
+        "status_text": null,
+        "system_text": "Nimbus Object Storage",
+        "where": "detail_panel"
+      },
+      {
+        "dates": [
+          {
+            "label": "Modified (UTC)",
+            "value": "11 Feb 14:17"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Storage class",
+            "value": "[removed]"
+          },
+          {
+            "label": "Version",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "delivery_confirmation_20",
+        "status_text": null,
+        "system_text": "Nimbus Object Storage",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Modified (UTC)",
+            "value": "10 Feb 09:33"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Storage class",
+            "value": "[removed]"
+          },
+          {
+            "label": "Version",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "return_label_4821",
+        "status_text": null,
+        "system_text": "Nimbus Object Storage",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Modified (UTC)",
+            "value": "11 Feb 16:05"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Storage class",
+            "value": "[removed]"
+          },
+          {
+            "label": "Version",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "return_label_4876",
+        "status_text": null,
+        "system_text": "Nimbus Object Storage",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Modified (UTC)",
+            "value": "10 Feb 11:21"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Storage class",
+            "value": "[removed]"
+          },
+          {
+            "label": "Version",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": "Nimbus Object Storage",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Modified (UTC)",
+            "value": "12 Feb 10:08"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Storage class",
+            "value": "[removed]"
+          },
+          {
+            "label": "Version",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "parcel_damage_7713",
+        "status_text": null,
+        "system_text": "Nimbus Object Storage",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Modified (UTC)",
+            "value": "10 Feb 23:14"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Storage class",
+            "value": "[removed]"
+          },
+          {
+            "label": "Version",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "customer_export_2026",
+        "status_text": null,
+        "system_text": "Nimbus Object Storage",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Modified (UTC)",
+            "value": "12 Feb 21:56"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Size",
+            "value": "[removed]"
+          },
+          {
+            "label": "Storage class",
+            "value": "[removed]"
+          },
+          {
+            "label": "Version",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "customer_export_2026",
+        "status_text": null,
+        "system_text": "Nimbus Object Storage",
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1657,
+    "output_tokens": 1958,
+    "reasoning_tokens": 0
+  }
+}

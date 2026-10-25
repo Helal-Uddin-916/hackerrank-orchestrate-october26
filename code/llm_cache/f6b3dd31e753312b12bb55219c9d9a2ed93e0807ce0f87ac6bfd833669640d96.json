@@ -1,0 +1,104 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "COMPLIANCE JOURNAL - SIGNED RECORD EXTRACT",
+    "events": [],
+    "page_time_text": "05 Sep 2026 06:30 UTC",
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "issued",
+            "value": "05 Sep 2026 06:30 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "classification",
+            "value": "[removed]"
+          },
+          {
+            "label": "reference",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": "Product Northstar Shop Compliance Journal",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "recorded",
+            "value": "25 Aug 2026 04:03 UTC"
+          },
+          {
+            "label": "retain until",
+            "value": "25 Aug 2027 04:03 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "subject reference",
+            "value": "[removed]"
+          },
+          {
+            "label": "event",
+            "value": "[removed]"
+          },
+          {
+            "label": "actor",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_03"
+          }
+        ],
+        "resource_id": "audit_record_003",
+        "status_text": "Account closure recorded",
+        "system_text": "Event",
+        "where": "table_row"
+      },
+      {
+        "dates": [],
+        "facts": [
+          {
+            "label": "record version",
+            "value": "[removed]"
+          },
+          {
+            "label": "storage class",
+            "value": "[removed]"
+          },
+          {
+            "label": "integrity seal",
+            "value": "[removed]"
+          },
+          {
+            "label": "short fingerprint",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": "Journal partition",
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1115,
+    "output_tokens": 697,
+    "reasoning_tokens": 0
+  }
+}

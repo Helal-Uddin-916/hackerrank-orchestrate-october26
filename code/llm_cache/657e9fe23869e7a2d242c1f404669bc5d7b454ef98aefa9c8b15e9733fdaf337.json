@@ -1,0 +1,235 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": true,
+    "document_title": "DISPUTED ORDERS AND TAX RECORDS REGISTER",
+    "events": [],
+    "page_time_text": "29 May 2026 08:00 UTC",
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "invoice date",
+            "value": "04 May 2026"
+          },
+          {
+            "label": "Retain until",
+            "value": "04 May 2033"
+          }
+        ],
+        "facts": [
+          {
+            "label": "case/reference number",
+            "value": "[removed]"
+          },
+          {
+            "label": "currency",
+            "value": "[removed]"
+          },
+          {
+            "label": "finance owner",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_08"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": null,
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "invoice date",
+            "value": "09 May 2026"
+          },
+          {
+            "label": "Retain until",
+            "value": "09 May 2033"
+          }
+        ],
+        "facts": [
+          {
+            "label": "case/reference number",
+            "value": "[removed]"
+          },
+          {
+            "label": "currency",
+            "value": "[removed]"
+          },
+          {
+            "label": "finance owner",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_12"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": null,
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "invoice date",
+            "value": "14 May 2026"
+          },
+          {
+            "label": "Retain until",
+            "value": "14 May 2033"
+          }
+        ],
+        "facts": [
+          {
+            "label": "case/reference number",
+            "value": "[removed]"
+          },
+          {
+            "label": "currency",
+            "value": "[removed]"
+          },
+          {
+            "label": "finance owner",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_17"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": null,
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "invoice date",
+            "value": "18 May 2026"
+          },
+          {
+            "label": "Retain until",
+            "value": "18 May 2033"
+          }
+        ],
+        "facts": [
+          {
+            "label": "case/reference number",
+            "value": "[removed]"
+          },
+          {
+            "label": "currency",
+            "value": "[removed]"
+          },
+          {
+            "label": "finance owner",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_21"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": null,
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "invoice date",
+            "value": "23 May 2026"
+          },
+          {
+            "label": "Retain until",
+            "value": "23 May 2033"
+          }
+        ],
+        "facts": [
+          {
+            "label": "case/reference number",
+            "value": "[removed]"
+          },
+          {
+            "label": "currency",
+            "value": "[removed]"
+          },
+          {
+            "label": "finance owner",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_24"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": null,
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "invoice date",
+            "value": "28 May 2026"
+          },
+          {
+            "label": "Retain until",
+            "value": "28 May 2033"
+          }
+        ],
+        "facts": [
+          {
+            "label": "case/reference number",
+            "value": "[removed]"
+          },
+          {
+            "label": "currency",
+            "value": "[removed]"
+          },
+          {
+            "label": "finance owner",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "user_reference",
+            "value": "user_29"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": null,
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1656,
+    "output_tokens": 1555,
+    "reasoning_tokens": 0
+  }
+}

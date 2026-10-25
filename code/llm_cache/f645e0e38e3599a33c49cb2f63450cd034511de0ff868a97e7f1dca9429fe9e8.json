@@ -1,0 +1,151 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "Customer Search",
+    "events": [
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "06:00:14"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "05:42:03"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "05:31:18"
+      }
+    ],
+    "page_time_text": "01 Sep 2026 06:00:14 UTC",
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Last indexed",
+            "value": "05:58:21 UTC"
+          },
+          {
+            "label": "indexed_at",
+            "value": "2026-09-01T05:58:21Z"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Score",
+            "value": "[removed]"
+          },
+          {
+            "label": "display_name",
+            "value": "[removed]"
+          },
+          {
+            "label": "email",
+            "value": "[removed]"
+          },
+          {
+            "label": "customer_reference",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "name",
+            "value": "fp:name"
+          },
+          {
+            "kind": "email",
+            "value": "fp:email:7afbbca4e0e4d5228a422ca39f5453505d365849ba5e20a288a203f0ba505c3d"
+          },
+          {
+            "kind": "user_reference",
+            "value": "user_13"
+          }
+        ],
+        "resource_id": "search_428",
+        "status_text": null,
+        "system_text": "customer_directory_v3",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "indexed_at",
+            "value": "2026-09-01T05:58:21Z"
+          }
+        ],
+        "facts": [
+          {
+            "label": "_id",
+            "value": "[removed]"
+          },
+          {
+            "label": "display_name",
+            "value": "[removed]"
+          },
+          {
+            "label": "email",
+            "value": "[removed]"
+          },
+          {
+            "label": "customer_reference",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "name",
+            "value": "fp:name"
+          },
+          {
+            "kind": "email",
+            "value": "fp:email:7afbbca4e0e4d5228a422ca39f5453505d365849ba5e20a288a203f0ba505c3d"
+          },
+          {
+            "kind": "user_reference",
+            "value": "user_13"
+          }
+        ],
+        "resource_id": "search_428",
+        "status_text": null,
+        "system_text": "customer_directory_v3",
+        "where": "detail_panel"
+      },
+      {
+        "dates": [
+          {
+            "label": "Last indexed",
+            "value": "05:55:03 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Score",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "email",
+            "value": "fp:email:f244251fefdc64b69254a9a865e1517f5be0000743ea7d2fdc0f5b3adb0fda5d"
+          }
+        ],
+        "resource_id": "search_1874",
+        "status_text": null,
+        "system_text": "customer_directory_v3",
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1683,
+    "output_tokens": 1070,
+    "reasoning_tokens": 0
+  }
+}

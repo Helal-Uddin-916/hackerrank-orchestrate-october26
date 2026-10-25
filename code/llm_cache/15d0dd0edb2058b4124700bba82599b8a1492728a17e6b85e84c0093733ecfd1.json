@@ -1,0 +1,106 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "DELIVERY ADDRESS CORRECTION REQUEST",
+    "events": [],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "received",
+            "value": "18 Jun 2026"
+          },
+          {
+            "label": "submitted",
+            "value": "18 Jun 2026 10 24 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "order",
+            "value": "[removed]"
+          },
+          {
+            "label": "preferred contact",
+            "value": "[removed]"
+          },
+          {
+            "label": "Customer request",
+            "value": "[removed]"
+          },
+          {
+            "label": "Product",
+            "value": "[removed]"
+          },
+          {
+            "label": "carrier",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "name",
+            "value": "fp:name"
+          },
+          {
+            "kind": "email",
+            "value": "fp:email:284c7b87b8237e241293c9e81c8f0bef10c4dc1dffefb382c45107ea40c39668"
+          },
+          {
+            "kind": "phone",
+            "value": "fp:phone:f76ec2429182a9e407f33ec276a75cf48aa8d372bfa4416083ddaafcd36494ec"
+          }
+        ],
+        "resource_id": "support_001",
+        "status_text": null,
+        "system_text": "Northstar Shop",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "captured",
+            "value": "12 Sep 2026 07 30 UTC"
+          }
+        ],
+        "facts": [
+          {
+            "label": "size",
+            "value": "[removed]"
+          },
+          {
+            "label": "ticket",
+            "value": "[removed]"
+          },
+          {
+            "label": "region",
+            "value": "[removed]"
+          },
+          {
+            "label": "uploader",
+            "value": "customer"
+          },
+          {
+            "label": "checksum prefix",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": null,
+        "system_text": null,
+        "where": "table_row"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1646,
+    "output_tokens": 684,
+    "reasoning_tokens": 0
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "answer": {
+    "contains_instructions_to_reader": false,
+    "document_title": "account_admin_console_20260926.png",
+    "events": [
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "24 Sep"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "22 Sep"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "18 Sep"
+      },
+      {
+        "resource_id": null,
+        "text": "[removed]",
+        "time_text": "03 Sep"
+      },
+      {
+        "resource_id": null,
+        "text": "support_9538 created",
+        "time_text": "28 Aug"
+      }
+    ],
+    "page_time_text": null,
+    "records": [
+      {
+        "dates": [
+          {
+            "label": "Date",
+            "value": "12 Sep 2026"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Item",
+            "value": "[removed]"
+          },
+          {
+            "label": "Qty",
+            "value": "[removed]"
+          },
+          {
+            "label": "Total",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": "Delivered - 18 Sep",
+        "system_text": "Northstar Shop",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Date",
+            "value": "28 Aug 2026"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Item",
+            "value": "[removed]"
+          },
+          {
+            "label": "Qty",
+            "value": "[removed]"
+          },
+          {
+            "label": "Total",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [],
+        "resource_id": "[entry without record id]",
+        "status_text": "Returned - 03 Sep",
+        "system_text": "Northstar Shop",
+        "where": "table_row"
+      },
+      {
+        "dates": [
+          {
+            "label": "Last contact",
+            "value": "24 Sep 2026 09:14 JST"
+          },
+          {
+            "label": "Member since",
+            "value": "12 Jan 2024"
+          }
+        ],
+        "facts": [
+          {
+            "label": "Signup channel",
+            "value": "[removed]"
+          },
+          {
+            "label": "Market",
+            "value": "[removed]"
+          },
+          {
+            "label": "Preferred language",
+            "value": "[removed]"
+          },
+          {
+            "label": "Default address",
+            "value": "[removed]"
+          },
+          {
+            "label": "Loyalty tier",
+            "value": "[removed]"
+          },
+          {
+            "label": "Support",
+            "value": "[removed]"
+          }
+        ],
+        "identifiers": [
+          {
+            "kind": "name",
+            "value": "fp:name"
+          },
+          {
+            "kind": "user_reference",
+            "value": "user_11"
+          },
+          {
+            "kind": "email",
+            "value": "fp:email:db83a42f1f41508b4c44fc526100f9663ea8f72b347f16769ef3ac6975015fa2"
+          },
+          {
+            "kind": "phone",
+            "value": "fp:phone:4194abef72a3ce1d1711014f39ca64d922d6f14000268b6e173e23d65169e903"
+          }
+        ],
+        "resource_id": "[entry without record id]",
+        "status_text": "Silver",
+        "system_text": "Northstar Shop",
+        "where": "detail_panel"
+      }
+    ],
+    "unreadable": []
+  },
+  "model": "gemini-3.1-flash-lite",
+  "prompt_id": "extract_document",
+  "prompt_version": "1",
+  "usage": {
+    "input_tokens": 1671,
+    "output_tokens": 1131,
+    "reasoning_tokens": 0
+  }
+}
